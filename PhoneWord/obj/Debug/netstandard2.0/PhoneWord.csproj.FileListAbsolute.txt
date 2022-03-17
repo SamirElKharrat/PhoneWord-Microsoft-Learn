@@ -1,0 +1,14 @@
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\bin\Debug\netstandard2.0\PhoneWord.deps.json
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\bin\Debug\netstandard2.0\PhoneWord.dll
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\bin\Debug\netstandard2.0\PhoneWord.pdb
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.csproj.AssemblyReference.cache
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.AssemblyInfoInputs.cache
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.AssemblyInfo.cs
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.csproj.CoreCompileInputs.cache
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.dll
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\refint\PhoneWord.dll
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.pdb
+D:\Desktop\GitHub\Atecresa\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\ref\PhoneWord.dll
